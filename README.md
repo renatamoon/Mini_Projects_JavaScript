@@ -13,7 +13,7 @@ Projetos aleatórios para praticar JavaScript, HTML e CSS.
 
 ## 1 - PROJETINHO TO DO LIST (HTML, CSS, JAVASCRIPT):
 
-#### Link do Repositório: <a href="./To_Do_List_JS/">Código</a>
+#### Link do Repositório: <a href="./To_Do_List_JS/">Clique aqui.</a>
 
 Projetinho bem simples de CRUD com banco de dados usando o JavaScript e integrando com HTML e CSS.
 <br>
