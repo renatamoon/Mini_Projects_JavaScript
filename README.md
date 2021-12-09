@@ -20,5 +20,4 @@ Projetinho bem simples de CRUD com banco de dados usando o JavaScript e integran
 
 ![image](https://user-images.githubusercontent.com/87100340/145449121-cda35fbb-2d4e-475f-922b-993d1e0a82aa.png)
 
-<br>
 <hr>
