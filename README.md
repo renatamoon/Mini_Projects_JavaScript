@@ -1,4 +1,4 @@
-# To_Do_List_JavaScript
+# Mini_Projects_JavaScript
 Projetos aleatórios para praticar JavaScript, HTML e CSS.
 
 <hr>
