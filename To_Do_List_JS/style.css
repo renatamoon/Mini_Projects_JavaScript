@@ -18,15 +18,6 @@ body {
     font: bold 2rem 'Open Sans', sans-serif;
 }
 
-.title{
-    color: rgb(242, 204, 147);
-    margin-top: 60px;
-    font-size: 70px;
-    margin-left: 225px;
-    justify-content: center;
-    align-items: center;
-}
-
 .todo {
     display: flex;
     width: 50vw;
