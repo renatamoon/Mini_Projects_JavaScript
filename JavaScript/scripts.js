@@ -102,3 +102,69 @@ n1 > n2 ? console.log('n1 é maior') : console.log('n1 é menor') */
 // } else {
 //     console.log("O numero é impar");
 // }
+
+
+//--------------laços for e loops
+
+// for(var i = 0; i < 10; i++){
+//     console.log(i)
+// }
+
+//-------laços
+
+// for(var i = 0; i < 10; i++){
+//     console.log(i);
+// }
+
+// var resposta = '';
+
+// while(resposta !== 'sair'){
+//     resposta = prompt('Digite sua resposta');
+//     console.log('sua resposta foi ' + resposta);
+// }
+
+//--------DO WHILE
+
+// var resposta = '';
+
+// do{
+//     resposta = prompt('DIGITE SUA RESPOSTA');
+//     console.log('sua resposta foi '+ resposta);
+// } while(resposta !== '')
+
+//----- DO WHILE
+
+// for(var i = 0; i < 5; i++){    
+//     if(i === 2){
+//         continue;
+//     }
+//     console.log(i);
+// }
+
+//-----desafio triangulo
+
+// for(var i = 0; i < 10; i++){
+//     var line = '';
+//     for(var j = 0; j < i; j++){
+//         line += '*';
+//     }
+//     console.log(line);
+// } 
+
+// for (var i = 10; i > 0; i--) {
+//   var line = "";
+//   for (var j = 0; j < i; j++) {
+//     line += "*";
+//   }
+//   console.log(line);
+// } 
+
+
+//------ tabuada
+
+// {
+//   for (var i = 1; i <= 10; i++) {
+//     console.log(n + " x " + i + " = " + n * i);
+//   }
+// }
+
