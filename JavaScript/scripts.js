@@ -168,3 +168,92 @@ n1 > n2 ? console.log('n1 é maior') : console.log('n1 é menor') */
 //   }
 // }
 
+// function sum(n1, n2){
+//     var total = n1 + n2;
+//     return total;
+// }
+
+// function myFunc(){
+//     console.log('Hello World');
+//     return 5;
+// }
+
+// setTimeout(myFunc, 5000);
+
+
+//funcoes anonimas
+
+// setTimeout(function(){
+//     console.log('ABC');
+// }, 2000);
+
+// setTimeout(() => {
+//     console.log('Def')
+// }, 2000);
+
+//arrow function - diferenca de uma funcao normal: 
+
+// function myFunc(otherFunc){
+//     console.log(otherFunc());
+// }
+
+// myFunc( myFunc2 => 10 + 5); //arrow function
+ 
+// myFunc(function(myFunc2){ //function normal
+//     return 10 + 5;
+// })
+
+//DESAFIO SE O NUMERO É OU NAO PRIMO
+
+// function isPrime(num){
+//     for(var i = 2; i < num; i++){
+//         if (num % i === 0){
+//             return false;
+//         }
+//     } return num !== 1;
+// }
+
+
+//desafio factorial
+
+// function fatorial(n) {
+//   if (n === 0) return 1;
+
+//   return n * fatorial(n - 1);
+// }
+
+// function main(n) {
+//   console.log(fatorial(n));
+// }
+
+
+
+//
+
+// function arrowfunction() {
+//   return (s) => (s % 2 === 0 ? s * 2 : s * 3);
+// }
+
+// function main(valores) {
+//   let transformacao = arrowfunction();
+//   try {
+//     new transformacao();
+//     console.log("É necessário definir uma arrow function");
+//   } catch (e) {}
+
+//   console.log(valores.map(transformacao).toString().split(",").join(" "));
+// }
+
+
+//objetos
+
+// var myObj = {
+//     lengh: 15,
+//     color: 'yellow',
+//     write: function(){
+//         console.log('Hello');
+//     }
+// }
+
+//trabalhando com arrays
+
