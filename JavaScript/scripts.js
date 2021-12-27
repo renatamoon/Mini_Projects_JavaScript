@@ -257,3 +257,17 @@ n1 > n2 ? console.log('n1 é maior') : console.log('n1 é menor') */
 
 //trabalhando com arrays
 
+// var myArray = [5, 8, 4, 12]; 
+
+//objetos
+
+var myArray = [2, 4, 6];
+var myObj = {d: 5, e: 10, f: 15};
+
+var [a, b, c] = myArray;
+
+var d = myObj.d,
+    e = myObj.e,
+    f = myObj.f;
+
+var {e} = myObj;
